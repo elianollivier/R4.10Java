@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+    .price{
+        @apply text-red-500;
+
+    }
+}
